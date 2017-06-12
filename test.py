@@ -12,7 +12,7 @@ import codecs as cs
 from get_path import prime
 
 
-base_dir = r'/Users/heshenghuan/Downloads/测试用例/shhe_result/'
+base_dir = r'./cases/'
 
 
 def readAnswer(answer):
